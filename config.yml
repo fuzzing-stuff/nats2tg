@@ -1,0 +1,9 @@
+nats:
+  server: <url-to-nats server>
+telegram:
+  url: <url for telegramm to connect>
+  token: <token to connect>
+routes:
+  -
+    topic: "<topic name>"
+    channel: "<channel id>"
